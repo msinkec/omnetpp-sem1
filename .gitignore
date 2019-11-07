@@ -1,0 +1,6 @@
+out/
+.cproject
+.oppbuildspec
+.settings/
+.project
+.qtenvrc
